@@ -1,0 +1,14 @@
+.container{
+    display: inline-block;
+}
+
+.mario{
+    display: inline-block;
+    
+    
+}
+
+.luigi{
+    display: inline-block;
+    margin-left: 100px;
+}
